@@ -1,0 +1,11 @@
+{
+  "jhipsterTestApp": {
+    "CategoryStatus": {
+      "null": "",
+      "ACTIVE": "ACTIVE",
+      "OBSOLETE": "OBSOLETE",
+      "DESACTIVE": "DESACTIVE",
+      "AJUSTEMENT": "AJUSTEMENT"
+    }
+  }
+}
